@@ -1,15 +1,4 @@
 
-/**
- * I N F x 1 2 0
- *
- * D?crivez votre classe Distributrice ici.
- * 
- * @author (votre nom) 
- * @version (une date)
- *
- * (votre code permanent)
- * (votre adresse de courriel)
- */
 
 public class Distributrice {
 
